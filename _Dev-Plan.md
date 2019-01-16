@@ -23,7 +23,7 @@
 > create an account page with a favorites section
 
 > allow user to add a recipe
-* NOTE * 
+* NOTE 
 > recipes added by users will have separate database from official recipes
 
 ## Database Update ##
