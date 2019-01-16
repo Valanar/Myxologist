@@ -19,16 +19,16 @@ Once the project moves into development, the press release can be used as a touc
 # Myxologist #
 
 ## Overview ##
-  > Nick the Bartender is designed to help people decide on a drink or cocktail based on what they have available and that has a level of difficulty appropriate. This Is designed to help people who are hosting a dinner party, as well as those looking to improve their cocktailing skills
+  > Myxologist is designed to help people decide on a drink or cocktail based on what they have available and that has a level of difficulty appropriate. This Is designed to help people who are hosting a dinner party, as well as those looking to improve their cocktailing skills
 
 ## Summary ##
-  > At it's core, Nick the Bartender will create a list of cocktails and drinks that are possible to make given a list of ingredients a customer enters. It will then go on to allow users to sort their results both by a primarily liquor they may be interested in, as well as by difficulty, or by season. Nick the Bartender will then go further to have a list of recommended additions to a user's "bar" or ingredients list for the most potential in expanding drink selections.
+  > At it's core, Myxologist will create a list of cocktails and drinks that are possible to make given a list of ingredients a customer enters. It will then go on to allow users to sort their results both by a primarily liquor they may be interested in, as well as by difficulty, or by season. Myxologist will then go further to have a list of recommended additions to a user's "bar" or ingredients list for the most potential in expanding drink selections.
 
 ## Problem ##
   > Many people enjoy a good drink, but feel they either lack the skill to make it, or are unaware of what is possible with what they have available in their own home.
 
 ## Solution ##
-  > Through generating a list of ingredients, a skilled bartender would be able to list off a wealth of drinks possible and help the customer decide on what sounds most appealing. Nick the Bartender will act as your own personal bartender to help you get to where you desire in the most delicious, and enjoyable way possible.
+  > Through generating a list of ingredients, a skilled bartender would be able to list off a wealth of drinks possible and help the customer decide on what sounds most appealing. Myxologist will act as your own personal bartender to help you get to where you desire in the most delicious, and enjoyable way possible.
 
 ## Quote from You ##
   > Cocktailing is a passion of mine, and helping someone realize they can make a delicious drink from what they already have is a rewarding experience and helps people realize what is possible with what they may assume to be common items around them. Cocktails have such a deep history, it'd be a shame not to enjoy the rich flavors while getting to the bottom of it!
